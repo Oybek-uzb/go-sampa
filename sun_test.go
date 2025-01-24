@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hablullah/go-sampa"
-	"github.com/hablullah/go-sampa/internal/testdata"
+	"github.com/Oybek-uzb/go-sampa"
+	"github.com/Oybek-uzb/go-sampa/internal/testdata"
 )
 
 func TestGetSunEvents(t *testing.T) {
