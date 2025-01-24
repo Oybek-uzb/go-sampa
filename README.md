@@ -22,7 +22,7 @@ Go SAMPA is a package for calculating Sun and Moon position. SAMPA itself is acr
 To use this package, make sure your project use Go 1.20 or above, then run the following command via terminal:
 
 ```
-go get -u -v github.com/hablullah/go-sampa
+go get -u -v github.com/Oybek-uzb/go-sampa
 ```
 
 ## Features
