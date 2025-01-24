@@ -2,10 +2,9 @@ package sampa
 
 import (
 	"fmt"
+	"github.com/Oybek-uzb/go-sampa/juliandays"
 	"math"
 	"time"
-
-	"github.com/hablullah/go-juliandays"
 )
 
 // MoonPosition is the result from calculating Moon position.

@@ -2,10 +2,9 @@ package sampa
 
 import (
 	"fmt"
+	"github.com/Oybek-uzb/go-sampa/juliandays"
 	"math"
 	"time"
-
-	"github.com/hablullah/go-juliandays"
 )
 
 // SunPosition is the result from calculating Sun position.

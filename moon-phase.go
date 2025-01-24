@@ -1,10 +1,9 @@
 package sampa
 
 import (
+	"github.com/Oybek-uzb/go-sampa/juliandays"
 	"math"
 	"time"
-
-	"github.com/hablullah/go-juliandays"
 )
 
 type MoonPhase uint8
